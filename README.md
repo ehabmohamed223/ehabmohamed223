@@ -3,9 +3,11 @@
 ### Data Analyst | Analytics Engineer | Bachelor’s Degree in Data Science (2025)
 ---
 
+### 📄 Resume — [Click Here to View My Resume](https://www.canva.com/design/DAGp9JNPybM/mY7BoQmGenYVAJk9sn371g/edit?utm_content=DAGp9JNPybM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
 
 ### Skills & Technologies
-
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -186,42 +188,22 @@ This project delivers an in-depth, data-driven evaluation of Diego Pablo Simeone
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### 3.EPL Match Winner Prediction
-- 🤖 Built ML models to predict match outcomes based on xG and match stats
-- 🧠 Models: Random Forest, Gaussian Processes
-- 🔗 [Explore Project](https://github.com/ehabmohamed223/english-premier-league-match-winner-prediction)
 
-### 🤖 AI Jobs Analysis
-- 🧹 Cleaned and analyzed AI job trends and salaries
-- 📊 Visualized insights in Excel Dashboard
-- 🔗 [Explore Project](https://github.com/ehabmohamed223/ai-jobs-data-analysis)
+This project analyzes the performance of English Premier League (EPL) teams between September 12, 2020, and April 25, 2022, using historical match data. It explores the impact of various features such as goals, possession, expected goals (xG), and referee influence to build machine learning models that predict the winner of a match.
+
+**Full Project Repository Link:**  
+[EPL Match Winner Prediction – GitHub Repository](https://github.com/ehabmohamed223/english-premier-league-match-winner-prediction)
 
 ---
 
-## 📄 Resume
+### 4.AI Jobs Analysis
 
-Want to know more about my experience and education?  
-📥 [Download My CV (PDF)](https://github.com/ehabmohamed223/ehab-mohamed-cv/blob/main/ehab_mohamed.pdf)
+This project focuses on analyzing the AI job market by exploring a dataset of over 15,000 AI-related job listings collected between 2024 and 2025. The dataset includes detailed information about job titles, salaries, experience levels, required skills, and more.
 
----
+Python used for data preprocessing and exploding, and Microsoft Excel for data analysis, visualization, and dashboard creation.
 
-## ☕ Let’s Connect
-
-If you’re working on something exciting or just want to talk about data, football, or creative ideas — feel free to reach out!
-
-📧 ehabmohamed223@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ehabmohamed223)
+**Full Project Repository Link:**  
+[AI Jobs Data Analysis – GitHub Repository](https://github.com/ehabmohamed223/ai-jobs-data-analysis)
 
 ---
