@@ -61,7 +61,7 @@ I'm passionate about transforming raw data into meaningful insights and continuo
 Egyptopia is a smart travel recommendation system designed to enhance the tourism experience in Egypt by offering **personalized suggestions** based on user preferences and behavior. It leverages **AI techniques** and a **curated tourism dataset** to help users discover both **iconic landmarks** and **hidden gems** beyond the usual tourist spots.
 
 <details>
-  <summary> <strong>For more details about Egyptopia and my role </strong></summary>
+  <summary> <strong>For More Details about Egyptopia and My Role </strong></summary>
 
   <br>
 
@@ -124,7 +124,7 @@ Egyptopia is a smart travel recommendation system designed to enhance the touris
 
 ### **Full Project Repository**  
 Explore the complete source code, data, and documentation here:  
-[Egyptopia – Full Graduation Project ](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project)
+[Egyptopia – Full Graduation Project Link](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project)
 
 ---
 
@@ -134,12 +134,71 @@ Explore the complete source code, data, and documentation here:
 
 
 
-### 🔴 Diego Simeone Impact on Atlético Madrid
-- 📈 Data-driven case study comparing Atlético Madrid before and after Simeone’s leadership
-- 📊 Used: Python, Jupyter, Looker Studio
-- 🔗 [Explore Project](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid)
+## 2.Diego Simeone Impact on Atlético Madrid 🔴⚪ 
+## Project Overview
 
-### ⚽ EPL Match Winner Prediction
+This project delivers an in-depth, data-driven evaluation of Diego Pablo Simeone’s managerial impact on Atlético Madrid from the 2011–12 season through 2023–24. The analysis focuses on how Simeone reshaped the club’s identity, tactical approach, and competitive stature—both in Spain and across Europe.
+
+<details>
+  <summary><strong>For More Details about Project Topics</strong></summary>
+
+- **Pre-Simeone vs Post-Simeone Era:**  
+  A detailed comparison of Atlético Madrid’s major achievements (La Liga, Copa del Rey, Supercopa de España, UEFA competitions) before and after Simeone’s arrival. Includes win rates, goal statistics, and average season performance.
+
+- **La Liga Performance Metrics:**  
+  Year-by-year performance breakdown, including total points, goals scored, goals conceded, and league position. The analysis also highlights consistency and improvements in league competitiveness under Simeone’s tenure.
+
+- **Comparison with Rivals – Real Madrid & Barcelona:**  
+  A head-to-head statistical comparison between Atlético Madrid and the traditional La Liga giants. Focus includes:  
+  - Average points per season  
+  - Points gap with league champions  
+  - Trends in competitiveness from 2011 to 2024
+
+- **Madrid Derby Evolution:**  
+  A focused breakdown of Madrid Derby results under Simeone, emphasizing changes in performance against Real Madrid, including:  
+  - Win/Draw/Loss ratios  
+  - Key victories  
+  - Historical turning points in the rivalry
+
+- **European Competitions:**  
+  Comprehensive coverage of Atlético Madrid’s performance in:  
+  - UEFA Champions League: From group stage through knockout rounds, including home vs away statistics, goal differentials, and progression stages.  
+  - UEFA Europa League: Participation outcomes, major victories, and titles won.
+
+- **Performance Against Europe’s Elite:**  
+  Aggregated statistics against top-tier clubs from:  
+  - Spain (Real Madrid, Barcelona, Sevilla, etc.)  
+  - England (Chelsea, Liverpool, Manchester United, etc.)  
+  - Germany (Bayern Munich, Borussia Dortmund)  
+  - Italy (Juventus, Milan, Inter, etc.)
+
+- **Managerial Legacy Metrics:**  
+  Summary of Simeone’s statistical legacy:  
+  - Total points earned under his management  
+  - Goals scored/conceded per season  
+  - Win percentage across domestic and international fixtures  
+  - Champions League and Europa League progression stages
+
+</details>
+
+**Full Project Repository Link:**  
+[Diego Simeone’s Impact on Atlético Madrid](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 3.EPL Match Winner Prediction
 - 🤖 Built ML models to predict match outcomes based on xG and match stats
 - 🧠 Models: Random Forest, Gaussian Processes
 - 🔗 [Explore Project](https://github.com/ehabmohamed223/english-premier-league-match-winner-prediction)
