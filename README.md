@@ -1,7 +1,9 @@
-# 👨‍💻 Ehab Mohamed — Data Engineer & Analyst
+# Ehab Mohamed 
+### Data Analyst | Analytics Engineer | Bachelor’s Degree in Data Science (2025)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehabmohamed223)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ehabmohamed223@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/ehab-mohamed-527458242](http://www.linkedin.com/in/ehab-mohamed-527458242))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ehab.mohamed.elsayeed@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ehabmohamed223)
 
 ---
