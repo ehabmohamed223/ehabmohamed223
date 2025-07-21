@@ -51,16 +51,88 @@ I'm passionate about transforming raw data into meaningful insights and continuo
 
 
 
+## 📌 Featured Projects
+
+
+## 1.Egyptopia - Virtual Tour Guide Application "My Graduation Project"
+
+**Project Overview**
+
+Egyptopia is a smart travel recommendation system designed to enhance the tourism experience in Egypt by offering **personalized suggestions** based on user preferences and behavior. It leverages **AI techniques** and a **curated tourism dataset** to help users discover both **iconic landmarks** and **hidden gems** beyond the usual tourist spots.
+
+<details>
+  <summary> <strong>For more details about Egyptopia and my role </strong></summary>
+
+  <br>
+
+  ### **Key Features**
+  - Content-Based Filtering – Suggests personalized places based on user profiles.
+  - Location-Based Recommendations – Recommends nearby places based on location input.
+  - Bayesian Average Model – Supports new users with unbiased top-rated attractions.
+  - tinerary Planner – Generates travel plans aligned with user budgets.
+  - AI Chatbot – Trained on Egypt-specific data to guide tourists.
+  - Cultural Quiz & Food Guide – Educates users on Egyptian culture and cuisine.
+  - Advanced Filters – Filter by city and attraction type.
+
+  ---
+
+  ###  My Role & Responsibilities
+
+  > *Ideated and led the entire project vision, implementation, and analysis phases.*
+
+  - **Project Ideation & Vision**  
+    Initiated the project concept, setting a strategic roadmap with a focus on underrepresented attractions.
+
+  - **Survey Design & Analysis**  
+    Designed and analyzed user surveys to extract data-driven features that enhance UX.
+
+  - **Database Design & Data Collection**  
+    Engineered database schema and collected extensive data on tourist places, activities, and Egyptian cuisine.
+
+  - **⚙Data Processing & Cleaning**  
+    Transformed raw data to match the schema for seamless integration and model training.
+
+  - **Product & Competitive Analysis**  
+    Benchmarked features to distinguish Egyptopia from other tourism apps in Egypt.
+
+  - **Recommendation System Engineering**
+    - Content-Based: Personalizes based on interest, adding diversity & novelty.
+    - Location-Based: Recommends based on proximity.
+    - Non-Personalized: Promotes attractions using Bayesian average ranking.
+
+  - **User Simulation**  
+    Simulated user behavior to evaluate system effectiveness.
+
+  - **Documentation & Media**  
+    Created professional reports and presentations using Canva.
+
+  ---
+
+  ### Tech Stack
+
+  | Tool | Purpose |
+  |------|---------|
+  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Data Processing, ML, Scraping |
+  | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) | Web Scraping |
+  | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Data Manipulation |
+  | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ML Models |
+  | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | Interactive Visuals |
+  | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | Descriptive Statistics |
+  | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) | Design & Documentation |
+
+</details>
+
+### **Full Project Repository**  
+Explore the complete source code, data, and documentation here:  
+[Egyptopia – Full Graduation Project ](https://github.com/ehabmohamed223/egyptopia-tourism-graduation-project)
+
+---
 
 
 
 
 
 
-
-
-
-## 📊 Featured Projects
 
 ### 🔴 Diego Simeone Impact on Atlético Madrid
 - 📈 Data-driven case study comparing Atlético Madrid before and after Simeone’s leadership
